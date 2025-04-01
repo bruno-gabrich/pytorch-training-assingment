@@ -78,7 +78,7 @@ The dataset, model, optimizer, and loss function are already provided. Your job 
    docker build -t pytorch-training-assignment .
    ```
 
-3. **Run the container, and open the notebook in your browser**
+ - **Run the container, and open the notebook in your browser**
 
    ```bash
    docker run -p 8890:8888 pytorch-training-assignment
