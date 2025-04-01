@@ -86,6 +86,6 @@ The dataset, model, optimizer, and loss function are already provided. Your job 
 
    Then go to:  
    [http://localhost:8890](http://localhost:8890)  
-   The notebook `ModelTraining_Exercise.ipynb` will open automatically. If not check the file tree on the left section of your monitor.
+   The notebook `ModelTraining_Exercise.ipynb` will open automatically. If not, check the file tree on the left section of your monitor.
 
 ### Good Luck!
