@@ -69,7 +69,7 @@ The dataset, model, optimizer, and loss function are already provided. Your job 
  - **Clone repo**: first clone this repository to your local machine. Open your terminal and run:
  ```bash
     git clone https://github.com/bruno-gabrich/pytorch-training-assingment.git
-    ```
+ ```
 
  - **Install Docker**: if you don't have Docker installed, download it here:https://www.docker.com/products/docker-desktop
 
