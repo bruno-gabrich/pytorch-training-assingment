@@ -66,9 +66,14 @@ The dataset, model, optimizer, and loss function are already provided. Your job 
 
 ### How to Run This Notebook with Docker
 
+ - **Clone repo**: first clone this repository to your local machine. Open your terminal and run:
+ ```bash
+    git clone https://github.com/bruno-gabrich/pytorch-training-assingment.git
+ ```
+
  - **Install Docker**: if you don't have Docker installed, download it here:https://www.docker.com/products/docker-desktop
 
- - **Build the Docker image**: open a terminal in the same folder as this project and run:
+ - **Build the Docker image**: open a terminal in the same folder where you cloned this repository and run:
 ```bash
    docker build -t pytorch-training-assignment .
    ```
