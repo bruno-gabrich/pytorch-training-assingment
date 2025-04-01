@@ -83,8 +83,9 @@ The dataset, model, optimizer, and loss function are already provided. Your job 
    docker run -p 8890:8888 pytorch-training-assignment
    ```
 
- - **Open the notebook in your browser**
+ - **Open the notebook in your browser**- the notebook `ModelTraining_Exercise.ipynb` will open automatically. If not, check the file tree on the left section of your monitor.
+
    [http://localhost:8890](http://localhost:8890)  
-   The notebook `ModelTraining_Exercise.ipynb` will open automatically. If not, check the file tree on the left section of your monitor.
+
 
 ### Good Luck!
