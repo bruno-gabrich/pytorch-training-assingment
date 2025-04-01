@@ -40,14 +40,16 @@ The dataset, model, optimizer, and loss function are already provided. Your job 
 
 ### Instructions
 
-- This assignment is consisted of **13** cells.  
-- You should execute each cell in sequence.  
-- The Neural Network model is defined in cell number **7**.  
-- **Your code should be inserted in cell number 9**.  
-- Make sure you record values for `test_losses`, `train_losses`, `accuracies` for each `epoch`.  
-- In order to visualize your results you can plot losses and accuracies running cell **10** and **11** respectively.  
-- Your grade can obtained running cell **12**.  
-- Solution for this work can be found at the last cell.  
+- This assignment is consisted of **13** cells.
+- You should execute each cell in sequence.
+- The Neural Network model is defined in cell number **7**.
+- **Your code should be inserted in cell number 9**.
+- Make sure you record values for `test_losses`, `train_losses`, `accuracies` for each `epoch`.
+- Sigmoid function output continuous values between **0** and **1**. You must transform this output to binary values (**0** or **1**) in order to compare model outputs against labels.
+- Accuracy values must be between 0 and 1.
+- In order to visualize your results you can plot losses and accuracies running cell **10** and **11** respectively.
+- Your grade can obtained running cell **12**.
+- Solution for this work can be found at the last cell.
 - Please, only check solution after you have worked and debugged your own code.
 
 ---
